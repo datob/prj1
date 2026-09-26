@@ -1,9 +1,3 @@
-/* =========================================================
-   Nexora Technologies — stylesheet
-   Naming convention: BEM (Block__Element--Modifier)
-   Grid/utilities: Bootstrap 5 (loaded in HTML head)
-   ========================================================= */
-
 /* ---------- Design tokens ---------- */
 :root {
   --color-navy: #101B2D;
